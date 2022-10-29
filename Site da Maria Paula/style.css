@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    
+ }
+h2{
+    color: dodgerblue;
+    background-color: blanchedalmond;
+ }
+h3{
+    color: darkviolet;
+    background-color: blanchedalmond;
+ }
+p {
+    color: rgb(29, 17, 17);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+
+.header{
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /*margin-left: 20px; */
+    padding: 20px;
+
+}
+
